@@ -14,3 +14,5 @@ brew install https://raw.githubusercontent.com/7449/homebrew-cask-china/master/F
 ## package
 
 * brew cask install tencent-meeting
+
+* brew cask install irreader
