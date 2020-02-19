@@ -7,3 +7,5 @@
 * brew cask install tencent-meeting
 
 * brew cask install irreader
+
+* brew cask install ysyy
