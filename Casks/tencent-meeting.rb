@@ -1,9 +1,9 @@
 cask 'tencent-meeting' do
-  version '1.1.6.413'
-  sha256 'a2aa92a4362c83a59c14793078ba37df1626f51bff210ac9838b40b7888a35b5'
+  version :latest
+  sha256 :no_check
 
   # tencent-meeting was verified as official when first introduced to the cask
-  url "https://down.qq.com/download/#{version}.publish_release.dmg"
+  url "https://meeting.tencent.com/download-mac.html?from=1002&fromSource=1"
   name 'tencent-meeting'
   homepage 'https://meeting.qq.com/download-center.html'
 
