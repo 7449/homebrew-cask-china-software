@@ -9,3 +9,5 @@
 * brew cask install irreader
 
 * brew cask install ysyy
+
+* brew cask install alimail
