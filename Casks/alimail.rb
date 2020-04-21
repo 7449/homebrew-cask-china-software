@@ -5,7 +5,7 @@ cask 'alimail' do
   # alimail was verified as official when first introduced to the cask
   url "http://download.taobaocdn.com/freedom/#{version}/default/Alimail.dmg"
   name 'alimail'
-  homepage 'https://qiye.aliyun.com/'
+  homepage 'https://www.aliyun.com/product/download-mail-client?wh_ttid=pc'
 
   app 'Alimail.app'
 
