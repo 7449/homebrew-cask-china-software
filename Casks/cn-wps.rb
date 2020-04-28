@@ -14,5 +14,8 @@ cask 'cn-wps' do
   zap trash: [
                '~/Library/Application Scripts/com.kingsoft.wpsoffice.mac',
                '~/Library/Containers/com.kingsoft.wpsoffice.mac',
+               '~/Library/Caches/com.kingsoft.wpsoffice.mac',
+               '~/Library/Preferences/com.kingsoft.wpsoffice.mac.plist',
+               '~/Library/WebKit/com.kingsoft.wpsoffice.mac',
              ]
 end
