@@ -1,6 +1,6 @@
 cask 'irreader' do
-  version '1.5.9'
-  sha256 'deda93fac98fe0c21be3daa3ca905f7c9036b3924e741ab7d8b4a3745eda008a'
+  version '1.6.0'
+  sha256 '1310d5096cfaca0d5584b279efd2dddade9215627b055f338c9b897de9ca11f4'
 
   # irreader was verified as official when first introduced to the cask
   url "http://irreader.fatecore.com/download/irreader-#{version}.dmg"
