@@ -1,9 +1,9 @@
 cask 'cn-wps' do
-  version '2.3.0'
-  sha256 '5ad6a41884eaa49b58796424dd3c4066d082af8b299fc299285891d1a21a92ed'
+  version '2.3.1'
+  sha256 '657d6d75453a21b14de834c7067993e2e6bb9d55873913d4b0cb1b31f9b49ec2'
 
   # cn-wps was verified as official when first introduced to the cask
-  url "http://package.mac.wpscdn.cn/mac_wps_pkg/#{version}/WPS_Office_#{version}(3701).dmg"
+  url "http://package.mac.wpscdn.cn/mac_wps_pkg/#{version}/WPS_Office_#{version}(3761).dmg"
   name 'cn-wps'
   homepage 'https://www.wps.cn/'
 
