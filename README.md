@@ -4,7 +4,9 @@
 
 ## package
 
-* brew cask install tencent-meeting
+* ~~brew cask install tencent-meeting~~
+
+  [see cask meeting](https://github.com/Homebrew/homebrew-cask/tree/master/Casks/tencent-meeting.rb)
 
 * brew cask install irreader
 
